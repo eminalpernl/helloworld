@@ -1,0 +1,14 @@
+/Users/eminalper/Desktop/camasIt/c#/helloworld/bin/Debug/net8.0/helloworld
+/Users/eminalper/Desktop/camasIt/c#/helloworld/bin/Debug/net8.0/helloworld.deps.json
+/Users/eminalper/Desktop/camasIt/c#/helloworld/bin/Debug/net8.0/helloworld.runtimeconfig.json
+/Users/eminalper/Desktop/camasIt/c#/helloworld/bin/Debug/net8.0/helloworld.dll
+/Users/eminalper/Desktop/camasIt/c#/helloworld/bin/Debug/net8.0/helloworld.pdb
+/Users/eminalper/Desktop/camasIt/c#/helloworld/obj/Debug/net8.0/helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eminalper/Desktop/camasIt/c#/helloworld/obj/Debug/net8.0/helloworld.AssemblyInfoInputs.cache
+/Users/eminalper/Desktop/camasIt/c#/helloworld/obj/Debug/net8.0/helloworld.AssemblyInfo.cs
+/Users/eminalper/Desktop/camasIt/c#/helloworld/obj/Debug/net8.0/helloworld.csproj.CoreCompileInputs.cache
+/Users/eminalper/Desktop/camasIt/c#/helloworld/obj/Debug/net8.0/helloworld.dll
+/Users/eminalper/Desktop/camasIt/c#/helloworld/obj/Debug/net8.0/refint/helloworld.dll
+/Users/eminalper/Desktop/camasIt/c#/helloworld/obj/Debug/net8.0/helloworld.pdb
+/Users/eminalper/Desktop/camasIt/c#/helloworld/obj/Debug/net8.0/helloworld.genruntimeconfig.cache
+/Users/eminalper/Desktop/camasIt/c#/helloworld/obj/Debug/net8.0/ref/helloworld.dll
