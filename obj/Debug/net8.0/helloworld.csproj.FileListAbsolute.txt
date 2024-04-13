@@ -12,3 +12,4 @@
 /Users/eminalper/Desktop/camasIt/c#/helloworld/obj/Debug/net8.0/helloworld.pdb
 /Users/eminalper/Desktop/camasIt/c#/helloworld/obj/Debug/net8.0/helloworld.genruntimeconfig.cache
 /Users/eminalper/Desktop/camasIt/c#/helloworld/obj/Debug/net8.0/ref/helloworld.dll
+/Users/eminalper/Desktop/camasIt/c#/helloworld/obj/Debug/net8.0/helloworld.sourcelink.json
